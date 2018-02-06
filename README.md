@@ -17,8 +17,9 @@ Best App
 6. [Chrome插件](#plugin_chrome)
 7. [Tampermonkey插件](#plugin_tampermonkey)
 8. [Alfred workflow插件](#plugin_alfred)
-9. [下载网站](#download_site)
-10. [不断更新中...](#more_content)
+9. [brew包和docker容器](#brew_docker)
+10. [下载网站](#download_site)
+11. [不断更新中...](#more_content)
 
 ====
 
@@ -317,12 +318,17 @@ Best App
 ★☆☆☆☆ | [TimeZones](https://github.com/zenorocha/alfred-workflows) | Get an instant list of the current time in various cities around the world | 
 
 
-## 9. <span id="download_site">下载网站</span>
+## 9. <span id="brew_docker">brew包和docker容器</span>
+
+参考brew_install.sh脚本和docker文件夹
+
+
+## 10. <span id="download_site">下载网站</span>
 
 待补充...
 
 
-## 10. <span id="more_content">不断更新中...</span>
+## 11. <span id="more_content">不断更新中...</span>
 
 #### 评分说明：
 
