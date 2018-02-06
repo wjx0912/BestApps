@@ -139,6 +139,73 @@ Best App
 评分   | 名称  | 功能简述 | 测评
 ----- | ----- | ------ | -----
  |  |  |
+★☆☆☆☆ | uDesktopNext | 壁纸 | 
+★☆☆☆☆ | WallpaperWizard | 壁纸 | 
+★☆☆☆☆ | ShadowsocksX-NG | 番羽土啬 | 
+★☆☆☆☆ | 金山词霸 | ---- | 
+★☆☆☆☆ | 有道词典 | ---- | 
+★☆☆☆☆ | PopClip | 增强型复制粘贴工具 | 
+★☆☆☆☆ | 腾讯截图 | ---- | 
+★☆☆☆☆ | Slip | 屏幕取色 | 
+★☆☆☆☆ | VillQ | 屏幕白板 | 
+★☆☆☆☆ | BetterZip | 压缩解压缩 | 
+★☆☆☆☆ | QQ | 聊天 | 
+★☆☆☆☆ | 飞鸽传书 | 局域网聊天 | 
+★☆☆☆☆ | 旺旺 | ---- | 
+★☆☆☆☆ | chrome | 浏览器 | 
+★☆☆☆☆ | EnPass | 密码管理 | 
+★☆☆☆☆ | LittleSnitch | 防火墙 | 
+★☆☆☆☆ | TripMode | 没有特长，貌似用LittleSnitch就够了 | 
+★☆☆☆☆ | Axure RP | 软件原型设计 | 
+★☆☆☆☆ | MindManager-10.6.125 | 思维导图 | 
+★☆☆☆☆ | Photoshop2018 | 图像编辑 | 
+★☆☆☆☆ | 为知笔记 | 云笔记 | 
+★☆☆☆☆ | FreeFileSync | 文件夹同步 | 
+★☆☆☆☆ | ParallelsDesktop | 融合功能很不错，不推荐用vmware | 
+★☆☆☆☆ | MicrosoftRemoteDesktop-9.0.37 | 连接windows远程桌面 | 
+★☆☆☆☆ | TeamViewer-13 | 远程桌面 | 
+★☆☆☆☆ | Charles | http抓包 | 
+★☆☆☆☆ | Surge | 网络开发与调试 | 
+★☆☆☆☆ | Wireshark | 抓包 | 
+★☆☆☆☆ | alfred | 快速启动 | 
+★☆☆☆☆ | CrossOver | 运行windows程序，不推荐 | 
+★☆☆☆☆ | Tadam2.0.1 | 番茄工作法 | 
+★☆☆☆☆ | Things | GTD效率工具 | 
+★☆☆☆☆ | Tyme2 | 个人时间规划追踪管理 | 
+★☆☆☆☆ | MacDown | markdown编写 | 
+★☆☆☆☆ | markdown-1.2 | 同上 | 
+★☆☆☆☆ | NTFS for Mac-15 | 会导致mac有些文件不显示，不推荐 | 
+★☆☆☆☆ | Office-2016.16.90 | word,excel,ppt等 | 
+★☆☆☆☆ | AcroReaderDC | PDF | 
+★☆☆☆☆ | OminiFocus | 时间管理 | 
+★☆☆☆☆ | OminiPlan | 项目管理 | 
+★☆☆☆☆ | OminiGrafflePro | 图标，流程图 | 
+★☆☆☆☆ | QuietRSS | RSS阅读 | 
+★☆☆☆☆ | TrueCrypt | 加密文件映射为磁盘 | 
+★☆☆☆☆ | Twitterrific | twitter客户端 | 
+★☆☆☆☆ | Paws for Trello | trello客户端 | 
+★☆☆☆☆ | ProPresenter | 现场双屏演示 | 
+★☆☆☆☆ | SiteSucker | 整站下载 | 
+★☆☆☆☆ | sogou | 输入法 | 
+★☆☆☆☆ | xScope | 设计辅助 | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | xxx | xxxxxxxxxx | 
 ★☆☆☆☆ | xxx | xxxxxxxxxx | 
 ★☆☆☆☆ | xxx | xxxxxxxxxx | 
 ★☆☆☆☆ | xxx | xxxxxxxxxx | 
@@ -148,9 +215,37 @@ Best App
 评分   | 名称  | 功能简述 | 测评
 ----- | ----- | ------ | -----
  |  |  |
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | 编辑器_010Editor | 二进制编辑器 | 
+★☆☆☆☆ | 编辑器_BBEdit | html编辑器 | 
+★☆☆☆☆ | 编辑器_Monodraw | ASCII文字图形编辑器 | 
+★☆☆☆☆ | 编辑器_SublimeText | 通用代码编辑器 | 
+★★★☆☆ | 编辑器_VSCode | 通用代码编辑器 | 
+★☆☆☆☆ | 数据库_NavicatPremium | sql数据库客户端 | 
+★★★☆☆ | 数据库_Studio_3T | mongodb客户端 | 
+★★★★☆ | 终端_iTerm | 终端 | 
+★★★★☆ | 终端_ShellCraft | ssh客户端(推荐) | 
+★☆☆☆☆ | 终端_SecureCRT | ssh客户端 | 
+★☆☆☆☆ | 终端_SSHShell | ssh客户端 | 
+★★★☆☆ | android studio | 安卓开发ide | 
+★★★★☆ | Beyond Compare | 比较工具 | 
+★★★★☆ | Dash | api document search | 
+★★★★★ | Docker for mac | docker service | 
+★★★☆☆ | Kitematic | docker gui tool | 
+★★★★☆ | SmartGit | git gui 客户端 | 
+★☆☆☆☆ | Scm Git | git command 客户端 | 
+★★★☆☆ | JDK | 8u162, 9u4 | 
+★★★★☆ | JetBrains Goland | Goland | 
+★★★★☆ | JetBrains ideaIU | ideaIU | 
+★☆☆☆☆ | JetBrains pycharm | pycharm | 
+★★★★☆ | JetBrains webstorm | webstorm | 
+★★★☆☆ | node | node.js | 
+★★★★☆ | source insight | 用Parallels Desktop融合功能 | 
+★☆☆☆☆ | Visual Studio  | 可用编译c#，依赖mono | 
+★☆☆☆☆ | xampp | 有了docker可用不用它 | 
+★☆☆☆☆ | VirtualHostX | 有了docker可用不用它 | 
+★★★★☆ | xcode | 苹果ide | 
+★★★☆☆ | cmake | 编译脚本工具 | 
+★★★★★ | brew | 苹果包管理器 | 
 
 ## 6. <span id="plugin_chrome">Chrome插件</span>
 
