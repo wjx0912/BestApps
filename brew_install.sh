@@ -1,6 +1,7 @@
 #!/bin/zsh
 brew install ctop
 brew install iproute2mac
+brew install python3
 
 brew install ack
 brew install advancecomp

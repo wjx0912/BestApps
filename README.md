@@ -9,7 +9,7 @@ Best App
 
 欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在[收集&提交页](https://github.com/wjx0912/BestApps/issues)
 
-1. [windows常用工具](#windows_common)
+1. [windows常用工具](#1-windows常用工具)
 2. [windows开发工具](#windows_develop)
 3. [linux工具](#linux_tools)
 4. [mac常用工具](#mac_common)
