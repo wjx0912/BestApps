@@ -23,7 +23,7 @@ Best App
 
 ====
 
->注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。  
+>注1：功能简述中尽量不用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。  
 >注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
 >注3：本项目 **接受** 任何形式的捐赠、资助或广告。
 
@@ -160,52 +160,52 @@ Best App
  |  |  |
 ★☆☆☆☆ | uDesktopNext | 壁纸 | 
 ★☆☆☆☆ | WallpaperWizard | 壁纸 | 
-★☆☆☆☆ | ShadowsocksX-NG | 番羽土啬 | 
+★★★★★ | ShadowsocksX-NG | 番羽土啬 | 
 ★☆☆☆☆ | 金山词霸 | ---- | 
 ★☆☆☆☆ | 有道词典 | ---- | 
 ★☆☆☆☆ | PopClip | 增强型复制粘贴工具 | 
 ★☆☆☆☆ | 腾讯截图 | ---- | 
-★☆☆☆☆ | Slip | 屏幕取色 | 
-★☆☆☆☆ | VillQ | 屏幕白板 | 
-★☆☆☆☆ | BetterZip | 压缩解压缩 | 
-★☆☆☆☆ | QQ | 聊天 | 
+★★★☆☆ | Slip | 屏幕取色 | 
+★★★☆☆ | VillQ | 屏幕白板 | 
+★★★★☆ | BetterZip | 压缩解压缩 | 
+★★★☆☆ | QQ | 聊天 | 
 ★☆☆☆☆ | 飞鸽传书 | 局域网聊天 | 
 ★☆☆☆☆ | 旺旺 | ---- | 
-★☆☆☆☆ | chrome | 浏览器 | 
-★☆☆☆☆ | EnPass | 密码管理 | 
-★☆☆☆☆ | LittleSnitch | 防火墙 | 
+★★★★★ | chrome | 浏览器 | 
+★★★★★ | EnPass | 密码管理 | 
+★★★★☆ | LittleSnitch | 防火墙 | 
 ★☆☆☆☆ | TripMode | 没有特长，貌似用LittleSnitch就够了 | 
-★☆☆☆☆ | Axure RP | 软件原型设计 | 
-★☆☆☆☆ | MindManager-10.6.125 | 思维导图 | 
+★★★★☆ | Axure RP | 软件原型设计 | 
+★★★★★ | MindManager-10.6.125 | 思维导图 | 
 ★☆☆☆☆ | Photoshop2018 | 图像编辑 | 
-★☆☆☆☆ | 为知笔记 | 云笔记 | 
+★★★★★ | 为知笔记 | 云笔记 | 
 ★☆☆☆☆ | FreeFileSync | 文件夹同步 | 
-★☆☆☆☆ | ParallelsDesktop | 融合功能很不错，不推荐用vmware | 
-★☆☆☆☆ | MicrosoftRemoteDesktop-9.0.37 | 连接windows远程桌面 | 
-★☆☆☆☆ | TeamViewer-13 | 远程桌面 | 
+★★★★★ | ParallelsDesktop | 融合功能很不错，不推荐用vmware | 
+★★★☆☆ | MicrosoftRemoteDesktop-9.0.37 | 连接windows远程桌面 | 
+★★★☆☆ | TeamViewer-13 | 远程桌面 | 
 ★☆☆☆☆ | Charles | http抓包 | 
 ★☆☆☆☆ | Surge | 网络开发与调试 | 
 ★☆☆☆☆ | Wireshark | 抓包 | 
-★☆☆☆☆ | alfred | 快速启动 | 
+★★★★★ | alfred | 快速启动 | 
 ★☆☆☆☆ | CrossOver | 运行windows程序，不推荐 | 
-★☆☆☆☆ | Tadam2.0.1 | 番茄工作法 | 
-★☆☆☆☆ | Things | GTD效率工具 | 
+★★★★☆ | Tadam2.0.1 | 番茄工作法 | 
+★★★☆☆ | Things | GTD效率工具 | 
 ★☆☆☆☆ | Tyme2 | 个人时间规划追踪管理 | 
 ★☆☆☆☆ | MacDown | markdown编写 | 
 ★☆☆☆☆ | markdown-1.2 | 同上 | 
 ★☆☆☆☆ | NTFS for Mac-15 | 会导致mac有些文件不显示，不推荐 | 
-★☆☆☆☆ | Office-2016.16.90 | word,excel,ppt等 | 
-★☆☆☆☆ | AcroReaderDC | PDF | 
+★★★★★ | Office-2016.16.90 | word,excel,ppt等 | 
+★★★★★ | AcroReaderDC | PDF | 
 ★☆☆☆☆ | OminiFocus | 时间管理 | 
 ★☆☆☆☆ | OminiPlan | 项目管理 | 
-★☆☆☆☆ | OminiGrafflePro | 图标，流程图 | 
-★☆☆☆☆ | QuietRSS | RSS阅读 | 
+★★★★★ | OminiGrafflePro | 图标，流程图 | 
+★★★★☆ | QuietRSS | RSS阅读 | 
 ★☆☆☆☆ | TrueCrypt | 加密文件映射为磁盘 | 
 ★☆☆☆☆ | Twitterrific | twitter客户端 | 
 ★☆☆☆☆ | Paws for Trello | trello客户端 | 
 ★☆☆☆☆ | ProPresenter | 现场双屏演示 | 
 ★☆☆☆☆ | SiteSucker | 整站下载 | 
-★☆☆☆☆ | sogou | 输入法 | 
+★★★★☆ | sogou | 输入法 | 
 ★☆☆☆☆ | xScope | 设计辅助 | 
 ★☆☆☆☆ | xxx | xxxxxxxxxx | 
 ★☆☆☆☆ | xxx | xxxxxxxxxx | 
@@ -273,25 +273,25 @@ Best App
 评分   | 名称  | 功能简述 | 测评
 ----- | ----- | ------ | -----
  |  |  |
-★☆☆☆☆ | Better History | 更好地查看您的历史记录 | 
-★☆☆☆☆ | Chrono下载管理器 | 做Chrome浏览器中最好的下载管理器 | 
-★☆☆☆☆ | Enpass Password Manager | Enpass Password Manager extension for Google Chrome | 
-★☆☆☆☆ | Google 翻译 | 浏览网页时可轻松查看翻译版本 | 
-★☆☆☆☆ | Last Tab | Opens a new tab when the last tab is closed instead of closing the window | 
+★★★★☆ | Better History | 更好地查看您的历史记录 | 
+★★★☆☆ | Chrono下载管理器 | 做Chrome浏览器中最好的下载管理器 | 
+★★★★★ | Enpass Password Manager | Enpass Password Manager extension for Google Chrome | 
+★★☆☆☆ | Google 翻译 | 浏览网页时可轻松查看翻译版本 | 
+★★★☆☆ | Last Tab | Opens a new tab when the last tab is closed instead of closing the window | 
 ★☆☆☆☆ | NetMarks - Bookmarks menu | Bookmark manager with a clean and intuitive interface | 
-★☆☆☆☆ | New Tab about:blank | ---- | 
-★☆☆☆☆ | Octo Mate | Missing mate of GitHub, making single file download effortless and with more features | 
-★☆☆☆☆ | Octotree | Code tree for GitHub | 
-★☆☆☆☆ | Popup my Bookmarks | 更有效率地查看及管理你的书签选单 | 
+★★★☆☆ | New Tab about:blank | ---- | 
+★★★☆☆ | Octo Mate | Missing mate of GitHub, making single file download effortless and with more features | 
+★★★☆☆ | Octotree | Code tree for GitHub | 
+★★★☆☆ | Popup my Bookmarks | 更有效率地查看及管理你的书签选单 | 
 ★☆☆☆☆ | Postman | ---- | 
-★☆☆☆☆ | Sexy Undo Close Tab | Accidentally closed your last tab? | 
-★☆☆☆☆ | Tampermonkey | ---- | 
+★★★★☆ | Sexy Undo Close Tab | Accidentally closed your last tab? | 
+★★★★★ | Tampermonkey | ---- | 
 ★☆☆☆☆ | Vimium | The Hacker's Browser | 
-★☆☆☆☆ | Wappalyzer | Identify web technologies | 
+★★★☆☆ | Wappalyzer | Identify web technologies | 
 ★☆☆☆☆ | 广告终结者 | 清除网页上的所有广告 | 
 ★☆☆☆☆ | 快捷扩展管理 | 一键管理所有扩展，快速激活、禁用插件 | 
 ★☆☆☆☆ | 支付宝安全插件 | ---- | 
-★☆☆☆☆ | 网页截图:注释&录屏 | 录屏，捕获整个页面或任何部分 | 
+★★★☆☆ | 网页截图:注释&录屏 | 录屏，捕获整个页面或任何部分 | 
 
 ## 7. <span id="plugin_tampermonkey">Tampermonkey插件</span>
 
@@ -300,24 +300,24 @@ Best App
 评分   | 名称  | 功能简述 | 测评
 ----- | ----- | ------ | -----
  |  |  |
-★☆☆☆☆ | 破解VIP会员视频集合 |  | 
-★☆☆☆☆ | 跳过网站等待、验证码及登录 |  | 
+★★★☆☆ | 破解VIP会员视频集合 |  | 
+★★★☆☆ | 跳过网站等待、验证码及登录 |  | 
 ★☆☆☆☆ | 网页限制解除 |  | 
-★☆☆☆☆ | 城通网盘、皮皮盘、牛盘显示正确下载地址 |  | 
+★★★★☆ | 城通网盘、皮皮盘、牛盘显示正确下载地址 |  | 
 ★☆☆☆☆ | 百度贴吧：不登录即可看贴 |  | 
 ★☆☆☆☆ | 全网音乐一键免费下载 一键搜索 在线试听 最新修复版2018.1.18晚更新 |  | 
-★☆☆☆☆ | AC-baidu： 优化百度、搜狗、谷歌搜索结果之重定向去除,去广告,favicon |  | 
+★★★★☆ | AC-baidu： 优化百度、搜狗、谷歌搜索结果之重定向去除,去广告,favicon |  | 
 ★☆☆☆☆ | MyDoubanMovieHelper,豆瓣电影C+,豆瓣,豆瓣电影 |  | 
 ★☆☆☆☆ | 淘宝天猫内部优惠券 |  | 
 ★☆☆☆☆ | YouTube + |  | 
 ★☆☆☆☆ | 一键离线下载 |  | 
 ★☆☆☆☆ | （内部购版本）京东购物优惠券免费领取 |  | 
 ★☆☆☆☆ | 知乎免登录 |  | 
-★☆☆☆☆ | 自定义百度网盘分享密码 |  | 
-★☆☆☆☆ | 贴吧页面精简 |  | 
+★★★☆☆ | 自定义百度网盘分享密码 |  | 
+★★★☆☆ | 贴吧页面精简 |  | 
 ★☆☆☆☆ | 去除电信运营商劫持广告 |  | 
 ★☆☆☆☆ | 购物党比价工具 |  | 
-★☆☆☆☆ | 百度网盘直接下载助手 |  | 
+★★★★☆ | 百度网盘直接下载助手 |  | 
 
 ## 8. <span id="plugin_alfred">Alfred workflow插件</span>
 
@@ -344,7 +344,7 @@ Best App
 
 ## 9. <span id="brew_docker">brew包和docker容器</span>
 
-参考brew_install.sh脚本（列表由某国外程序猿提供，但网址忘记了，以后找到了补上）；以及docker文件夹
+参考[brew_install.sh](https://github.com/wjx0912/BestApps/blob/master/brew_install.sh)脚本（列表由某国外程序猿提供，但网址忘记了，以后找到了补上）；以及[docker](https://github.com/wjx0912/BestApps/tree/master/docker)文件夹
 
 
 ## 10. <span id="download_site">下载网站</span>
@@ -417,4 +417,4 @@ Best App
 
 #### License
 
-Released under [GPL3] LICENSE
+Released under [GPL2] LICENSE
