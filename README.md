@@ -10,16 +10,16 @@ Best App
 欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在[收集&提交页](https://github.com/wjx0912/BestApps/issues)
 
 1. [windows常用工具](#1-windows常用工具)
-2. [windows开发工具](#windows_develop)
-3. [linux工具](#linux_tools)
-4. [mac常用工具](#mac_common)
-5. [mac开发工具](#mac_develop)
-6. [Chrome插件](#plugin_chrome)
-7. [Tampermonkey插件](#plugin_tampermonkey)
-8. [Alfred workflow插件](#plugin_alfred)
-9. [brew包和docker容器](#brew_docker)
-10. [下载网站](#download_site)
-11. [不断更新中...](#more_content)
+2. [windows开发工具](#2-windows开发工具)
+3. [linux工具](#3-linux工具)
+4. [mac常用工具](#4-mac常用工具)
+5. [mac开发工具](#5-mac开发工具)
+6. [Chrome插件](#6-chrome插件)
+7. [Tampermonkey插件](#7-tampermonkey插件)
+8. [Alfred workflow插件](#8-alfred-workflow插件)
+9. [brew包和docker容器](#9-brew包和docker容器)
+10. [下载网站](#10-下载网站)
+11. [不断更新中...](#11-不断更新中)
 
 ====
 
