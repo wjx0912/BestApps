@@ -29,6 +29,8 @@ Best App
 
 ## 1. <span id="windows_common">windows常用工具</span>
 
+个人生活工作常用的软件，不具代表性，仅供参考；也可以参考[Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+
 评分   | 名称  | 功能简述 | 测评
 ----- | ----- | ------ | -----
 ★☆☆☆☆ | QQ | 使用去广告版，避免右下角弹窗 | 
@@ -109,14 +111,14 @@ Best App
 ★☆☆☆☆ | staruml-5.0 | uml工具 | 
 ★★★☆☆ | Gow-0.8.0 | 常见的linux指令(windows的busybox) | 
 ★☆☆☆☆ | sokit | 网络调试代理 |
-★★★★★ | PVS-Studio | visual studio 的c/c++ lints插件，没有pclint的繁琐配置 |
 ★★★★★ | SmartGit | 相比TortoiseGit更好的modules和gitflow支持，非商业免费使用 |
 ★☆☆☆☆ | CMake | 编译脚本 |
 ★★☆☆☆ | Android Studio | 不解释 |
 ★★★☆☆ | visual studio 2013 udpate5 | 不解释 |
 ★★★☆☆ | visual studio 2017 15.5 | 不解释 |
+★★★★★ | PVS-Studio | vs插件：没有pclint的繁琐配置 |
 ★★★★★ | deleaker | vs插件：内存泄漏检测神器 |
-★☆☆☆☆ | vld | vs插件：内存泄漏检测 |
+★☆☆☆☆ | vld | vs插件：内存泄漏检测，开源(不推荐) |
 ★★★★★ | TabStudio | vs插件 |
 ★★★★★ | Visual assist | vs插件 |
 ★★★★★ | goland | jetbrains golang ide |
@@ -136,6 +138,22 @@ Best App
 
 
 ## 4. <span id="mac_common">mac常用工具</span>
+
+个人生活工作常用的软件，不具代表性，仅供参考；也可以参考：
+
+[awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line)
+
+[awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
+[awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+
+[mac-apps](https://github.com/jeffreyjackson/mac-apps)
+
+[Best-App(中文)](https://github.com/hzlzh/Best-App)
+
+[Mac软件(中文)](https://github.com/smyhvae/Mac)
+
+[Mac最佳软件](https://github.com/mba811/mac-best-app)
 
 评分   | 名称  | 功能简述 | 测评
 ----- | ----- | ------ | -----
@@ -250,6 +268,8 @@ Best App
 
 ## 6. <span id="plugin_chrome">Chrome插件</span>
 
+这些是我常用的；网上也有人[收集了一份](https://github.com/Mike-bel/awesome-chrome-plugins)，但不是我的菜，仅供参考
+
 评分   | 名称  | 功能简述 | 测评
 ----- | ----- | ------ | -----
  |  |  |
@@ -275,6 +295,8 @@ Best App
 
 ## 7. <span id="plugin_tampermonkey">Tampermonkey插件</span>
 
+更多插件请到[官网](https://greasyfork.org/zh-CN)搜索
+
 评分   | 名称  | 功能简述 | 测评
 ----- | ----- | ------ | -----
  |  |  |
@@ -299,6 +321,8 @@ Best App
 
 ## 8. <span id="plugin_alfred">Alfred workflow插件</span>
 
+插件[官网](http://www.packal.org/)
+
 评分   | 名称  | 功能简述 | 测评
 ----- | ----- | ------ | -----
  |  |  |
@@ -320,13 +344,50 @@ Best App
 
 ## 9. <span id="brew_docker">brew包和docker容器</span>
 
-参考brew_install.sh脚本和docker文件夹
+参考brew_install.sh脚本（列表由某国外程序猿提供，但网址忘记了，以后找到了补上）；以及docker文件夹
 
 
 ## 10. <span id="download_site">下载网站</span>
 
-待补充...
-
+评分   | 类别  | 站名 | 网址
+----- | ----- | ------ | -----
+ |  |  |
+★★★★★ | 通用 | 0daydown | [www.0daydown.com](http://www.0daydown.com)
+★☆☆☆☆ | 通用 | 爱范儿 | [www.ifanr.com](http://www.ifanr.com)
+★★★★★ | 通用 | 少数派 | [sspai.com](https://sspai.com)
+★★★★★ | 通用 | 善用佳软 | [xbeta.info](http://xbeta.info)
+★★★★☆ | windows | MSDN 我告诉你 | [www.msdn.hk](http://www.msdn.hk)
+★★★★☆ | windows | 大眼仔旭 | [dayanzai.me](http://dayanzai.me)
+★★★☆☆ | windows | 异次元软件世界 | [www.iplaysoft.com](https://www.iplaysoft.com)
+★☆☆☆☆ | windows | 小众软件 | [www.appinn.com](https://www.appinn.com)
+★☆☆☆☆ | windows | 软件下载港 | [www.xiazaigang.com](http://www.xiazaigang.com)
+★★★☆☆ | windows | 吾爱破解 | [www.52pojie.cn](https://www.52pojie.cn)
+★★★☆☆ | windows | 飘云阁安全论坛 | [www.chinapyg.com](http://www.chinapyg.com)
+★★☆☆☆ | windows | 零散坑 | [03k.org](https://03k.org)
+★☆☆☆☆ | windows | Windows Apps That Amaze Us | [amazing-apps.gitbooks.io/windows-apps-that-amaze-us/zh-CN](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/zh-CN)
+★☆☆☆☆ | windows | 乐软博客 | [www.isharepc.com](https://www.isharepc.com)
+★☆☆☆☆ | windows | 吾乐吧软件站 | [www.wuleba.com](http://www.wuleba.com)
+★☆☆☆☆ | windows | 爱软客 | [www.bokeboke.net](http://www.bokeboke.net)
+★☆☆☆☆ | windows | 汉化新世纪 | [www.hanzify.org](http://www.hanzify.org)
+★☆☆☆☆ | windows | 奇奇玩儿童软件 | [www.kidsdown.com](http://www.kidsdown.com)
+★☆☆☆☆ | windows | 软件缘 | [www.appcgn.com](https://www.appcgn.com)
+★☆☆☆☆ | windows | zd423 | [www.zdfans.com](http://www.zdfans.com)
+★☆☆☆☆ | windows | 绿软分享吧 | [www.lrshare.com](http://www.lrshare.com)
+★☆☆☆☆ | windows | 殁漂遥 | [www.shaoit.com](http://www.shaoit.com)
+★☆☆☆☆ | windows | 重灌狂人 | [https://briian.com](https://briian.com)
+★☆☆☆☆ | windows | FileHippo.com | [https://filehippo.com/zh](https://filehippo.com/zh)
+★★★★★ | mac | 爱情守望者(已买vip有需要请联系我) | [https://www.waitsun.com](https://www.waitsun.com)
+★★★★☆ | mac | 极限苹果(已买vip有需要请联系我) | [https://www.applex.net](https://www.applex.net)
+★★★☆☆ | mac | 威锋mac软件 | [http://bbs.feng.com/thread-htm-fid-19.html](http://bbs.feng.com/thread-htm-fid-19.html)
+★★★☆☆ | mac | 远景mac软件 | [http://bbs.pcbeta.com/forum-497-1.html](http://bbs.pcbeta.com/forum-497-1.html)
+★☆☆☆☆ | mac | 玩转苹果 | [http://www.ifunmac.com](http://www.ifunmac.com)
+★☆☆☆☆ | mac | Mac Torrent Download | [http://mac-torrent-download.net](http://mac-torrent-download.net)
+★★★☆☆ | mac | xclient.info | [http://xclient.info](http://xclient.info)
+★★★☆☆ | mac | Mac软件– 峰回路转 | [http://www.mind168.com/category/mac](http://www.mind168.com/category/mac)
+★★★☆☆ | mac | NMac Ked | [nmac.to](https://nmac.to)
+★★★☆☆ | mac | MacBed | [www.macbed.com](http://www.macbed.com)
+★★★☆☆ | mac | Mac志 | [www.isofts.org](https://www.isofts.org)
+★★★☆☆ | mac | Mac玩儿法 | [www.waerfa.com](https://www.waerfa.com)
 
 ## 11. <span id="more_content">不断更新中...</span>
 
