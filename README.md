@@ -43,7 +43,7 @@ Best App
 ★★★★★ | kcptun-gui | 不解释 | [#](https://github.com/GangZhuo/kcptun-gui-windows)
 ★★★☆☆ | v2ray | 极客的 * 番 * 羽 * 土 * 啬 | [#](https://www.v2ray.com/)
 ★★★★★ | Chrome | 国产马甲已绝望 | 
- |  |  |
+ | &nbsp; |  | 
 ★★★☆☆ | Notepad++ | 文本编辑器 | 
 ★★★☆☆ | UltraEdit | 文本编辑器 | 
 ★☆☆☆☆ | gvim | 文本编辑器 | 
@@ -54,7 +54,7 @@ Best App
 ★★★★★ | PicPick | 取色，屏幕尺，白板 | 
 ★★★☆☆ | Axure RP 8 | 原型设计工具，支持windows和mac | 
 ★★★☆☆ | Altova XMLSpy | xml编辑(完善的xml schema支持) | 
- |  |  |
+ | &nbsp; |  | 
 ★★★★★ | 为知笔记 | 相对有道云和印象笔记更喜欢它，每年60软妹币，从网文快捕至今使用15年+ | 
 ★★★★☆ | AM-Notebook | 本地笔记 | 
 ★★★★☆ | QuiteRSS | 本地RSS阅读器，开源跨平台(windows,linux,mac) | 
@@ -63,21 +63,21 @@ Best App
 ★★★☆☆ | Visio 2016 | 图表 | 
 ★★★★☆ | Studio 3T | 数据库mongodb 客户端，支持windows和mac | 
 ★★☆☆☆ | Navicat for SQLite | 数据库sqlite 客户端 | 
- |  |  |
+ | &nbsp; |  | 
 ★☆☆☆☆ | 百度网盘 | 不解释 | 
 ★☆☆☆☆ | 迅雷U享版 | 使用和谐版 | 
 ★★★★★ | PowerGrep4 | 搜索替换工具 | 
 ★★★★★ | BeyondCompare | 代码diff，merge | 
 ★☆☆☆☆ | 金山词霸+牛津词典 | 不解释 | 
 ★★★★☆ | GlassWire | 流量统计+防火墙，可以对每个进程实时流量统计 | 
- |  |  |
+ | &nbsp; |  | 
 ★★☆☆☆ | CPUZ | 不解释 | 
 ★★☆☆☆ | GPUZ | 不解释 | 
 ★★★☆☆ | sscom-5.12 | 串口调试助手 | 
 ★★★★☆ | exeinfo | 取代PEid | 
 ★★★☆☆ | VLC | 播放器 | 
 ★★★☆☆ | 格式工厂4.1 | 视频格式转换 | 
- |  |  |
+ | &nbsp; |  | 
 ★★★☆☆ | FileZilla | ftp客户端 | 
 ★★★☆☆ | cports | 查看端口占用 | 
 ★★★☆☆ | PowerSniffer | 小巧的抓包工具，支持lua和c两种脚本，毛遂自荐一下~ | 
@@ -88,7 +88,7 @@ Best App
 ★☆☆☆☆ | ResourceHacker | exe资源查看提取 | 
 ★☆☆☆☆ | .NET Reflector | .net反编译 | 
 ★★★☆☆ | UltraISO | iso刻录(u盘装windows必备) | 
- |  |  |
+ | &nbsp; |  | 
 ★★★★★ | Enpass | 密码存储，支持windows,mac,chrome等 | 
 ★★★★★ | GoodSync | 文件夹同步，支持本地，网络，ftp, dropbox等 | 
 ★☆☆☆☆ | ASCII Art Studio | 字符画，可以拿来装X | 
@@ -159,11 +159,10 @@ Best App
 ----- | ----- | ------ | -----
  |  |  |
 ★☆☆☆☆ | uDesktopNext | 壁纸 | 
-★☆☆☆☆ | WallpaperWizard | 壁纸 | 
 ★★★★★ | ShadowsocksX-NG | 番羽土啬 | 
-★☆☆☆☆ | 金山词霸 | ---- | 
+★☆☆☆☆ | 金山词霸 | (不推荐) | 
 ★☆☆☆☆ | 有道词典 | ---- | 
-★☆☆☆☆ | PopClip | 增强型复制粘贴工具 | 
+★☆☆☆☆ | PopClip | (不推荐)增强型复制粘贴工具 | 
 ★☆☆☆☆ | 腾讯截图 | ---- | 
 ★★★☆☆ | Slip | 屏幕取色 | 
 ★★★☆☆ | VillQ | 屏幕白板 | 
@@ -171,63 +170,62 @@ Best App
 ★★★☆☆ | QQ | 聊天 | 
 ★☆☆☆☆ | 飞鸽传书 | 局域网聊天 | 
 ★☆☆☆☆ | 旺旺 | ---- | 
-★★★★★ | chrome | 浏览器 | 
+★★★★★ | chrome | 网页浏览器 | 
 ★★★★★ | EnPass | 密码管理 | 
 ★★★★☆ | LittleSnitch | 防火墙 | 
-★☆☆☆☆ | TripMode | 没有特长，貌似用LittleSnitch就够了 | 
+★☆☆☆☆ | TripMode | (不推荐)没有特长，貌似用LittleSnitch就够了 | 
 ★★★★☆ | Axure RP | 软件原型设计 | 
 ★★★★★ | MindManager-10.6.125 | 思维导图 | 
 ★☆☆☆☆ | Photoshop2018 | 图像编辑 | 
+☆☆☆☆☆ | Sketch | (不推荐)有AxureRP和OminiGraffle足够了 | 
 ★★★★★ | 为知笔记 | 云笔记 | 
+ | &nbsp; |  | 
 ★☆☆☆☆ | FreeFileSync | 文件夹同步 | 
-★★★★★ | ParallelsDesktop | 融合功能很不错，不推荐用vmware | 
+★★★★★ | ParallelsDesktop | 虚拟机，融合功能很不错 | 
 ★★★☆☆ | MicrosoftRemoteDesktop-9.0.37 | 连接windows远程桌面 | 
 ★★★☆☆ | TeamViewer-13 | 远程桌面 | 
 ★☆☆☆☆ | Charles | http抓包 | 
-★☆☆☆☆ | Surge | 网络开发与调试 | 
 ★☆☆☆☆ | Wireshark | 抓包 | 
-★★★★★ | alfred | 快速启动 | 
 ★☆☆☆☆ | CrossOver | 运行windows程序，不推荐 | 
 ★★★★☆ | Tadam2.0.1 | 番茄工作法 | 
-★★★☆☆ | Things | GTD效率工具 | 
-★☆☆☆☆ | Tyme2 | 个人时间规划追踪管理 | 
+★★★☆☆ | Things | (不推荐)GTD效率工具 | 
+★☆☆☆☆ | Tyme2 | (不推荐)个人时间规划追踪管理 | 
 ★☆☆☆☆ | MacDown | markdown编写 | 
-★☆☆☆☆ | markdown-1.2 | 同上 | 
-★☆☆☆☆ | NTFS for Mac-15 | 会导致mac有些文件不显示，不推荐 | 
+★☆☆☆☆ | markdown-1.2 | (不推荐)没有和谐版 | 
+★☆☆☆☆ | NTFS for Mac-15 | 会导致mac下ntfs文件不显示，不推荐 | 
 ★★★★★ | Office-2016.16.90 | word,excel,ppt等 | 
 ★★★★★ | AcroReaderDC | PDF | 
-★☆☆☆☆ | OminiFocus | 时间管理 | 
-★☆☆☆☆ | OminiPlan | 项目管理 | 
-★★★★★ | OminiGrafflePro | 图标，流程图 | 
-★★★★☆ | QuietRSS | RSS阅读 | 
+★☆☆☆☆ | OminiFocus | (不推荐)时间管理，不支持dropbox | 
+★☆☆☆☆ | OminiPlan | (不推荐)项目管理 | 
+★★★★★ | OminiGraffle Pro | 图标，流程图 | 
+★★★★☆ | QuietRSS | 离线RSS阅读 | 
 ★☆☆☆☆ | TrueCrypt | 加密文件映射为磁盘 | 
 ★☆☆☆☆ | Twitterrific | twitter客户端 | 
 ★☆☆☆☆ | Paws for Trello | trello客户端 | 
-★☆☆☆☆ | ProPresenter | 现场双屏演示 | 
 ★☆☆☆☆ | SiteSucker | 整站下载 | 
 ★★★★☆ | sogou | 输入法 | 
 ★☆☆☆☆ | xScope | 设计辅助 | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
-★☆☆☆☆ | xxx | xxxxxxxxxx | 
+★☆☆☆☆ | ProPresenter | 现场双屏演示 | 
+ | &nbsp; |  | 
+★★☆☆☆ | Duplicate File Finder Pro | 重复文件清理 | 
+★★★☆☆ | Path Finder | 类似于Finder的增强系统文件管理 | 
+★☆☆☆☆ | 迅雷 | ---- | 
+★☆☆☆☆ | 百度网盘 | ---- | 
+★☆☆☆☆ | Folx Pro | 类似迅雷的下载工具 | 
+★☆☆☆☆ | DownIE | 视频下载 | 
+★☆☆☆☆ | INNA | 视频播放器 | 
+★☆☆☆☆ | VLC | 视频播放器 | 
+★☆☆☆☆ | Swinsian | 音频播放器 | 
+ | &nbsp; |  | 
+★★★★★ | alfred | 快速启动 | 
+★★★★★ | CleanMyMac | 软件清理卸载 | 
+★★★★★ | IstatMen | 菜单栏显示cpu,ddr,disk,network等信息 | 
+★★★★☆ | Bartender | 菜单栏清理图标 | 
+★★★☆☆ | Focus | 集中精力效率工具 | 
+★☆☆☆☆ | Keyboard Maestro | 快捷键自定义 | 
+★★★☆☆ | Moom | 窗口大学增强控制 | 
+★☆☆☆☆ | Workspaces | 优秀的工作空间快速切换工具 | 
+★★★★★ | Yoink | 文件中转停靠栏 | 
 
 ## 5. <span id="mac_develop">mac开发工具</span>
 
@@ -311,7 +309,7 @@ Best App
 ★☆☆☆☆ | 淘宝天猫内部优惠券 |  | 
 ★☆☆☆☆ | YouTube + |  | 
 ★☆☆☆☆ | 一键离线下载 |  | 
-★☆☆☆☆ | （内部购版本）京东购物优惠券免费领取 |  | 
+☆☆☆☆☆ | （内部购版本）京东购物优惠券免费领取 | 有bug不推荐 | 
 ★☆☆☆☆ | 知乎免登录 |  | 
 ★★★☆☆ | 自定义百度网盘分享密码 |  | 
 ★★★☆☆ | 贴吧页面精简 |  | 
