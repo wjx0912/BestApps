@@ -164,7 +164,7 @@ Best App
 ★☆☆☆☆ | 有道词典 | ---- | 
 ★☆☆☆☆ | PopClip | (不推荐)增强型复制粘贴工具 | 
 ★☆☆☆☆ | 腾讯截图 | ---- | 
-★★★☆☆ | Slip | 屏幕取色 | 
+★★★☆☆ | Sip | 屏幕取色 | 
 ★★★☆☆ | VillQ | 屏幕白板 | 
 ★★★★☆ | BetterZip | 压缩解压缩 | 
 ★★★☆☆ | QQ | 聊天 | 
@@ -216,6 +216,7 @@ Best App
 ★☆☆☆☆ | INNA | 视频播放器 | 
 ★☆☆☆☆ | VLC | 视频播放器 | 
 ★☆☆☆☆ | Swinsian | 音频播放器 | 
+★☆☆☆☆ | Movavi Screen Recorder5 | 屏幕录像截图 | 
  | &nbsp; |  | 
 ★★★★★ | alfred | 快速启动 | 
 ★★★★★ | CleanMyMac | 软件清理卸载 | 
@@ -226,6 +227,7 @@ Best App
 ★★★☆☆ | Moom | 窗口大学增强控制 | 
 ★☆☆☆☆ | Workspaces | 优秀的工作空间快速切换工具 | 
 ★★★★★ | Yoink | 文件中转停靠栏 | 
+★★★★★ | ExpanDrive | 把远程空间映射到本地的神器 | 
 
 ## 5. <span id="mac_develop">mac开发工具</span>
 
@@ -236,6 +238,7 @@ Best App
 ★☆☆☆☆ | 编辑器_BBEdit | html编辑器 | 
 ★☆☆☆☆ | 编辑器_Monodraw | ASCII文字图形编辑器 | 
 ★☆☆☆☆ | 编辑器_SublimeText | 通用代码编辑器 | 
+★★★★☆ | 编辑器_UltraEdit | 通用代码编辑器 | 
 ★★★☆☆ | 编辑器_VSCode | 通用代码编辑器 | 
 ★☆☆☆☆ | 数据库_NavicatPremium | sql数据库客户端 | 
 ★★★☆☆ | 数据库_Studio_3T | mongodb客户端 | 
