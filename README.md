@@ -205,7 +205,6 @@ Best App
 ★☆☆☆☆ | SiteSucker | 整站下载 | 
 ★★★★☆ | sogou | 输入法 | 
 ★☆☆☆☆ | xScope | 设计辅助 | 
-★☆☆☆☆ | ProPresenter | 现场双屏演示 | 
  | &nbsp; |  | 
 ★★☆☆☆ | Duplicate File Finder Pro | 重复文件清理 | 
 ★★★☆☆ | Path Finder | 类似于Finder的增强系统文件管理 | 
@@ -222,10 +221,8 @@ Best App
 ★★★★★ | CleanMyMac | 软件清理卸载 | 
 ★★★★★ | IstatMen | 菜单栏显示cpu,ddr,disk,network等信息 | 
 ★★★★☆ | Bartender | 菜单栏清理图标 | 
-★★★☆☆ | Focus | 集中精力效率工具 | 
 ★☆☆☆☆ | Keyboard Maestro | 快捷键自定义 | 
 ★★★☆☆ | Moom | 窗口大学增强控制 | 
-★☆☆☆☆ | Workspaces | 优秀的工作空间快速切换工具 | 
 ★★★★★ | Yoink | 文件中转停靠栏 | 
 ★★★★★ | ExpanDrive | 把远程空间映射到本地的神器 | 
 
