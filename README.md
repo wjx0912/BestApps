@@ -62,7 +62,7 @@ Best App
 ★★★☆☆ | Office 2016 | 办公 | 
 ★★★☆☆ | Visio 2016 | 图表 | 
 ★★★★☆ | Studio 3T | 数据库mongodb 客户端，支持windows和mac | 
-★★☆☆☆ | Navicat for SQLite | 数据库sqlite 客户端 | 
+★★☆☆☆ | Navicat Premium | 数管理MySQL、SQLite、Oracle、MariaDB、Mssql、及PostgreSQL | 
  | &nbsp; |  | 
 ★☆☆☆☆ | 百度网盘 | 不解释 | 
 ★☆☆☆☆ | 迅雷U享版 | 使用和谐版 | 
