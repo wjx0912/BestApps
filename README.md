@@ -247,7 +247,7 @@ Best App
 ★★★★☆ | Beyond Compare | 比较工具 | 
 ★★★★☆ | Dash | api document search | 
 ★★★★★ | Docker for mac | docker service | 
-★★★☆☆ | Kitematic | docker gui tool | 
+★★★☆☆ | Kitematic | [docker gui tool](https://github.com/docker/kitematic) | 
 ★★★★☆ | SmartGit | git gui 客户端 | 
 ★☆☆☆☆ | Scm Git | git command 客户端 | 
 ★★★☆☆ | JDK | 8u162, 9u4 | 
